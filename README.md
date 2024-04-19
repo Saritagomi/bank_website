@@ -1,2 +1,2 @@
-# bank_website
-This is a modern payment website which is made using Node.js, Tailwind CSS, JavaScript . 
+# Hoobank
+The next generation payment method website. This website is created using React.js and Tailwind CSS.
